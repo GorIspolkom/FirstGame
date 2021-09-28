@@ -1,0 +1,15 @@
+﻿  Bullet.cpp
+D:\VisualStudio\Game\Bullet.cpp(10,13): warning C4305: =: усечение из "double" в "float"
+D:\VisualStudio\Game\Bullet.cpp(24,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\Game\Bullet.cpp(25,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+  Создание кода...
+  Game.vcxproj -> D:\VisualStudio\Game\x64\Debug\Game.exe

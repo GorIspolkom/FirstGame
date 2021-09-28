@@ -1,0 +1,11 @@
+﻿  EntityWalkShoot.cpp
+D:\VisualStudio\Game\EntityWalkShoot.cpp(7,18): warning C4305: =: усечение из "double" в "float"
+  Game.cpp
+D:\VisualStudio\Game\Game.cpp(47,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  Player.cpp
+  Создание кода
+  0 of 562 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Game.vcxproj -> D:\VisualStudio\Game\x64\Release\Game.exe
